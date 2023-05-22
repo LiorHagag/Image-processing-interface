@@ -1,0 +1,11 @@
+C:\Users\origi\source\repos\Work1byOriGigi\bin\Debug\Work1byOriGigi.exe.config
+C:\Users\origi\source\repos\Work1byOriGigi\bin\Debug\Work1byOriGigi.exe
+C:\Users\origi\source\repos\Work1byOriGigi\bin\Debug\Work1byOriGigi.pdb
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.csproj.AssemblyReference.cache
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.csproj.SuggestedBindingRedirects.cache
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.Form1.resources
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.Properties.Resources.resources
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.csproj.GenerateResource.cache
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.csproj.CoreCompileInputs.cache
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.exe
+C:\Users\origi\source\repos\Work1byOriGigi\obj\Debug\Work1byOriGigi.pdb

@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\bin\Debug\Work1byOriGigi.exe.config
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\bin\Debug\Work1byOriGigi.exe
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\bin\Debug\Work1byOriGigi.pdb
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Assigment2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Assigment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Assigment2.Form1.resources
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Work1byOriGigi.Properties.Resources.resources
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Assigment2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Assigment2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Work1byOriGigi.exe
+C:\Users\USER\OneDrive - ono.ac.il\Desktop\תכנות מתקדם\2nd Assigment\obj\Debug\Work1byOriGigi.pdb
